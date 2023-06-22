@@ -1,0 +1,11 @@
+@media screen and ( max-width: 1011px){
+    .row{
+        display: block;
+    }
+    .block-text{
+        display: none;
+    }
+    .col{
+        margin: 0 auto;
+    }
+}
